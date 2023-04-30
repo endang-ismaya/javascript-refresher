@@ -1,6 +1,3 @@
-var total = 0;
-for (var i = 1; i <= 5; i++) {
-    total = total + i;
-}
-
+var angka = [1, 2, 3];
+var total = angka.length ** angka.length;
 console.log(total);
