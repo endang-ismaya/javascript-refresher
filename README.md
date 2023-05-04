@@ -1,3 +1,3 @@
 # javascript-refresher
 
-JavaScript Workshop Refresher
+JavaScript Workshop Refresher 2023
