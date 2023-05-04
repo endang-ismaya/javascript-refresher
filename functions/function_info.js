@@ -1,7 +1,7 @@
 /*
 how to declare a function
 - function declaration
-- funciton expression
+- function expression
 - arrow function
 
 */

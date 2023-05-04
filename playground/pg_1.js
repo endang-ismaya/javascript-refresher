@@ -1,10 +1,2 @@
-var choice;
-choice = drink;
-switch (choice) {
-    case "food":
-        console.log(choice);
-        break;
-    case "drinks":
-        console.log("beverages");
-        break;
-}
+const pi = 3.14;
+console.log(typeof pi);
