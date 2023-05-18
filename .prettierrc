@@ -1,0 +1,15 @@
+{
+    "singleQuote": false,
+    "tabWidth": 4,
+    "overrides": [
+        {
+            "files": ["*.css", "*.html"],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ],
+    "bracketSpacing": true,
+    "printWidth": 80,
+    "semi": true
+}

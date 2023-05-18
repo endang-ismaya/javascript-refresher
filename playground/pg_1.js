@@ -1,3 +1,5 @@
+print = console.log;
+
 class Vehicle {
     constructor(name, type) {
         this.name = name;
@@ -5,4 +7,4 @@ class Vehicle {
     }
 }
 let vehicle = new Vehicle();
-console.log(vehicle.name);
+print(vehicle.name);

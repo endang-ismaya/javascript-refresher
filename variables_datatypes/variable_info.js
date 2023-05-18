@@ -6,6 +6,8 @@ Data type in JavaScript
 4. Object
 5. Undefined
 6. Null
+7. Symbol
+8. BigInt
 */
 
 // number
