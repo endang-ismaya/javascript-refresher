@@ -19,3 +19,11 @@ scores.pop();
 for (let i = 0; i < scores.length; i++) {
     console.log(scores[i]);
 }
+
+// remove an item from the beginning of the list
+scores.shift();
+
+// add an item at the beginning of the list
+scores.unshift(99);
+
+console.log(scores);
